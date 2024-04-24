@@ -1,14 +1,14 @@
 {
-  "name": "http-proxy",
-  "version": "1.18.1",
+  "name": "@shaohuitech/http-proxy",
+  "version": "1.18.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/http-party/node-http-proxy.git"
+    "url": "https://github.com/shaohuitech/node-http-proxy.git"
   },
   "description": "HTTP proxying for the masses",
-  "author": "Charlie Robbins <charlie.robbins@gmail.com>",
+  "author": "shaohuitech <shaohuitech@163.com>",
   "maintainers": [
-    "jcrugzz <jcrugzz@gmail.com>"
+    "changlon <changlong@gmail.com>"
   ],
   "main": "index.js",
   "dependencies": {
